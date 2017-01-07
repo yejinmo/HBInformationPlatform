@@ -25,7 +25,7 @@ namespace HBInformationPlatform
         private void Main_Load(object sender, EventArgs e)
         {
             /*
-            obj = new EducationSystemA("14111065", "199671yjm");
+            obj = new EducationSystemA("username", "password");
             obj.PropertyChanged += (s, arg) =>
             {
                 if (arg.PropertyName == "Result")
@@ -34,7 +34,7 @@ namespace HBInformationPlatform
                     {
                         Program.result =
                         ("Content-Type: text/html\n\n")
-                        + ("<html><head><title>14111065</title></head><body>\n\n")
+                        + ("<html><head><title>username</title></head><body>\n\n")
                         + (obj.Result)
                         + ("\n\n</body></html>");
                         obj.Dispose();
@@ -61,7 +61,7 @@ namespace HBInformationPlatform
         private void button2_Click(object sender, EventArgs e)
         {
             LibrarySystemBookInfo lsbi = new LibrarySystemBookInfo();
-            textBox1.Text = lsbi.Get("14111065", "item.php?marc_no=0000081144");
+            textBox1.Text = lsbi.Get("username", "item.php?marc_no=0000081144");
         }
 
         private void button3_Click(object sender, EventArgs e)

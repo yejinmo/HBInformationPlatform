@@ -21,7 +21,6 @@ namespace CGI_EducationSystem
             {
                 string data = string.Empty;
                 data = Environment.GetEnvironmentVariable("QUERY_STRING");
-                data = "username=14111065&password=199671yjm";
                 if (string.IsNullOrEmpty(data))
                     data = string.Empty;
                 Regex reg = new Regex(@"username=(.+?)&password=(.+)");
