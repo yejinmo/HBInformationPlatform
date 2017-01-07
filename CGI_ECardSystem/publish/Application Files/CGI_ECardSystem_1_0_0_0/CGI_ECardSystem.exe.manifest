@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CGI_ECardSystem.exe" version="1.0.0.0" publicKeyToken="c3c776857b479ae3" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CGI_ECardSystem" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CGI_ECardSystem.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请用以下节点之一替换
+          requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+          如果要利用文件和注册表虚拟化提供
+          向后兼容性，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CGI_ECardSystem.exe" size="14800">
+      <assemblyIdentity name="CGI_ECardSystem" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>UZTifVdhJuuk3k/ktY7Zkio68Fs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Net.Http.dll" size="180832">
+      <assemblyIdentity name="System.Net.Http" version="2.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>vnPECG7jPdg4oYzUFMTu1U4KLqc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CGI_ECardSystem.exe.config" size="184">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>06MAsbgFUGlKhu1U3KJ4fh8CRLU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-JBCUU3S\JinMo Ye" issuerKeyHash="9aa532b57fce8403a5a00c060fa7440034692e65" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>59FwrZG1tPrRcrVGkEGUVZaNshw=</DigestValue></Reference></SignedInfo><SignatureValue>qdEKZOrOnzPxAkwwcTusIGDBbORSjh3zTsJ7eBi1okcOcT4hbgMnIELTN7R4B5ijKH6g8UYAKrDkJfzs9Xcps0OlFGwY91H9HKwtt4mJntWWibX0GGDYtz7FjtIw6TIrsdNs0USx4U0uKq2ku75rI6zDImfmUjmEfPuJBwl/1FM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>5i621tOzENH9oE9VQGnGz3hqzSKtjzUOCIm5IpfepGOmpkNqH+6Bj0KsfZ4UJkYPA5dzF4zUlkGVnHd36GbIgIrLsEZiLeM3bEk0+NIFHjIPogBIL7RRY4MonbIdKApEvgfFvCmEVN1YvKbwHFjXJaj2UzizPHOLv6c4R7PAg/c=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1cb28d965594419046b572d1fab4b591ad70d1e7" Description="" Url=""><as:assemblyIdentity name="CGI_ECardSystem.exe" version="1.0.0.0" publicKeyToken="c3c776857b479ae3" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-JBCUU3S\JinMo Ye</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>xqsIZVm8ylqq+tHODT/X8REZA+o=</DigestValue></Reference></SignedInfo><SignatureValue>SgGws2yqzTnYnZ+wQLqG4bVkkkc41cByU1GQdIh8uFqCmeMWnr7wckfzd+Wc9AcqYjukfULtzT5FG8kiklYOefcldHWyNtGnO61Ow8/PJEB2OUGFUgdGR4eVAUvkraGEdrO1L67HEeQzy3GwfNFPUSicERYUAo3CgHViaGl8POU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5i621tOzENH9oE9VQGnGz3hqzSKtjzUOCIm5IpfepGOmpkNqH+6Bj0KsfZ4UJkYPA5dzF4zUlkGVnHd36GbIgIrLsEZiLeM3bEk0+NIFHjIPogBIL7RRY4MonbIdKApEvgfFvCmEVN1YvKbwHFjXJaj2UzizPHOLv6c4R7PAg/c=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQap84aOXbdZpFtMZZ5yG5yzANBgkqhkiG9w0BAQUFADA7MTkwNwYDVQQDHjAARABFAFMASwBUAE8AUAAtAEoAQgBDAFUAVQAzAFMAXABKAGkAbgBNAG8AIABZAGUwHhcNMTYwNTIxMTQ1MjU3WhcNMTcwNTIxMjA1MjU3WjA7MTkwNwYDVQQDHjAARABFAFMASwBUAE8AUAAtAEoAQgBDAFUAVQAzAFMAXABKAGkAbgBNAG8AIABZAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOYuttbTsxDR/aBPVUBpxs94as0irY81DgiJuSKX3qRjpqZDah/ugY9CrH2eFCZGDwOXcxeM1JZBlZx3d+hmyICKy7BGYi3jN2xJNPjSBR4yD6IASC+0UWODKJ2yHSgKRL4HxbwphFTdWLym8BxY1yWo9lM4szxzi7+nOEezwIP3AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAuRxTGEb6uaYoRa3JZPpKnpErY/wV9cpbqGS7QHw3tyCHlKc9ilQ9Am00pG5OnXsGTOnDSuuoOqexarNnT/gLT48tcfVv/L0bv9r5BmE8AnG+gg8ATYjtqK/hKq9g+fUpnC6iIFWuvpkpqudR3OG8AVd8ikm/kQJkj3K8bidpeR0=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,8 @@
+E:\Project\HBInformationPlatform\HBInformationPlatform_Client\bin\Debug\HBInformationPlatform_Client.exe.config
+E:\Project\HBInformationPlatform\HBInformationPlatform_Client\bin\Debug\HBInformationPlatform_Client.exe
+E:\Project\HBInformationPlatform\HBInformationPlatform_Client\bin\Debug\HBInformationPlatform_Client.pdb
+E:\Project\HBInformationPlatform\HBInformationPlatform_Client\obj\Debug\HBInformationPlatform_Client.Client.resources
+E:\Project\HBInformationPlatform\HBInformationPlatform_Client\obj\Debug\HBInformationPlatform_Client.Properties.Resources.resources
+E:\Project\HBInformationPlatform\HBInformationPlatform_Client\obj\Debug\HBInformationPlatform_Client.csproj.GenerateResource.Cache
+E:\Project\HBInformationPlatform\HBInformationPlatform_Client\obj\Debug\HBInformationPlatform_Client.exe
+E:\Project\HBInformationPlatform\HBInformationPlatform_Client\obj\Debug\HBInformationPlatform_Client.pdb

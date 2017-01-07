@@ -1,0 +1,15 @@
+E:\Project\HBInformationPlatform\HBInformationPlatform\bin\Debug\HBInformationPlatform.exe.config
+E:\Project\HBInformationPlatform\HBInformationPlatform\bin\Debug\HBInformationPlatform.exe
+E:\Project\HBInformationPlatform\HBInformationPlatform\bin\Debug\HBInformationPlatform.pdb
+E:\Project\HBInformationPlatform\HBInformationPlatform\bin\Debug\InformationEngine.dll
+E:\Project\HBInformationPlatform\HBInformationPlatform\bin\Debug\System.Web.Http.dll
+E:\Project\HBInformationPlatform\HBInformationPlatform\bin\Debug\System.Net.Http.Formatting.dll
+E:\Project\HBInformationPlatform\HBInformationPlatform\bin\Debug\InformationEngine.pdb
+E:\Project\HBInformationPlatform\HBInformationPlatform\bin\Debug\System.Web.Http.xml
+E:\Project\HBInformationPlatform\HBInformationPlatform\bin\Debug\System.Net.Http.Formatting.xml
+E:\Project\HBInformationPlatform\HBInformationPlatform\obj\Debug\HBInformationPlatform.csprojResolveAssemblyReference.cache
+E:\Project\HBInformationPlatform\HBInformationPlatform\obj\Debug\HBInformationPlatform.Form_Main.resources
+E:\Project\HBInformationPlatform\HBInformationPlatform\obj\Debug\HBInformationPlatform.Properties.Resources.resources
+E:\Project\HBInformationPlatform\HBInformationPlatform\obj\Debug\HBInformationPlatform.csproj.GenerateResource.Cache
+E:\Project\HBInformationPlatform\HBInformationPlatform\obj\Debug\HBInformationPlatform.exe
+E:\Project\HBInformationPlatform\HBInformationPlatform\obj\Debug\HBInformationPlatform.pdb

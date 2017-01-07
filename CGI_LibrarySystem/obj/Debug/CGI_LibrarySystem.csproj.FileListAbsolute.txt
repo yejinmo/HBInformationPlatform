@@ -1,0 +1,11 @@
+E:\Project\HBInformationPlatform\CGI_LibrarySystem\bin\Debug\CGI_LibrarySystem.exe.config
+E:\Project\HBInformationPlatform\CGI_LibrarySystem\bin\Debug\CGI_LibrarySystem.exe.manifest
+E:\Project\HBInformationPlatform\CGI_LibrarySystem\bin\Debug\CGI_LibrarySystem.application
+E:\Project\HBInformationPlatform\CGI_LibrarySystem\bin\Debug\CGI_LibrarySystem.exe
+E:\Project\HBInformationPlatform\CGI_LibrarySystem\bin\Debug\CGI_LibrarySystem.pdb
+E:\Project\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.csprojResolveAssemblyReference.cache
+E:\Project\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.TrustInfo.xml
+E:\Project\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.exe.manifest
+E:\Project\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.application
+E:\Project\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.exe
+E:\Project\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.pdb

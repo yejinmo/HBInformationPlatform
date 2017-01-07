@@ -1,0 +1,11 @@
+E:\Project\HBInformationPlatform\CGI_LibrarySystemBookInfo\bin\Debug\CGI_LibrarySystemBookInfo.exe.config
+E:\Project\HBInformationPlatform\CGI_LibrarySystemBookInfo\bin\Debug\CGI_LibrarySystemBookInfo.exe.manifest
+E:\Project\HBInformationPlatform\CGI_LibrarySystemBookInfo\bin\Debug\CGI_LibrarySystemBookInfo.application
+E:\Project\HBInformationPlatform\CGI_LibrarySystemBookInfo\bin\Debug\CGI_LibrarySystemBookInfo.exe
+E:\Project\HBInformationPlatform\CGI_LibrarySystemBookInfo\bin\Debug\CGI_LibrarySystemBookInfo.pdb
+E:\Project\HBInformationPlatform\CGI_LibrarySystemBookInfo\obj\Debug\CGI_LibrarySystemBookInfo.csprojResolveAssemblyReference.cache
+E:\Project\HBInformationPlatform\CGI_LibrarySystemBookInfo\obj\Debug\CGI_LibrarySystemBookInfo.TrustInfo.xml
+E:\Project\HBInformationPlatform\CGI_LibrarySystemBookInfo\obj\Debug\CGI_LibrarySystemBookInfo.exe.manifest
+E:\Project\HBInformationPlatform\CGI_LibrarySystemBookInfo\obj\Debug\CGI_LibrarySystemBookInfo.application
+E:\Project\HBInformationPlatform\CGI_LibrarySystemBookInfo\obj\Debug\CGI_LibrarySystemBookInfo.exe
+E:\Project\HBInformationPlatform\CGI_LibrarySystemBookInfo\obj\Debug\CGI_LibrarySystemBookInfo.pdb
