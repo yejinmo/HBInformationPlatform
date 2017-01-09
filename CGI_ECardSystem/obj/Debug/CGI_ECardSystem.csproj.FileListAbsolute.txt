@@ -8,3 +8,13 @@ E:\Project\HBInformationPlatform\CGI_ECardSystem\obj\Debug\CGI_ECardSystem.exe.m
 E:\Project\HBInformationPlatform\CGI_ECardSystem\obj\Debug\CGI_ECardSystem.application
 E:\Project\HBInformationPlatform\CGI_ECardSystem\obj\Debug\CGI_ECardSystem.exe
 E:\Project\HBInformationPlatform\CGI_ECardSystem\obj\Debug\CGI_ECardSystem.pdb
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_ECardSystem\bin\Debug\CGI_ECardSystem.exe.config
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_ECardSystem\bin\Debug\CGI_ECardSystem.exe.manifest
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_ECardSystem\bin\Debug\CGI_ECardSystem.application
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_ECardSystem\bin\Debug\CGI_ECardSystem.exe
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_ECardSystem\bin\Debug\CGI_ECardSystem.pdb
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_ECardSystem\obj\Debug\CGI_ECardSystem.csprojResolveAssemblyReference.cache
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_ECardSystem\obj\Debug\CGI_ECardSystem.exe.manifest
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_ECardSystem\obj\Debug\CGI_ECardSystem.application
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_ECardSystem\obj\Debug\CGI_ECardSystem.exe
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_ECardSystem\obj\Debug\CGI_ECardSystem.pdb

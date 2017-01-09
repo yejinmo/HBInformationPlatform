@@ -9,3 +9,14 @@ E:\Project\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.e
 E:\Project\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.application
 E:\Project\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.exe
 E:\Project\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.pdb
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_LibrarySystem\bin\Debug\CGI_LibrarySystem.exe.config
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_LibrarySystem\bin\Debug\CGI_LibrarySystem.exe.manifest
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_LibrarySystem\bin\Debug\CGI_LibrarySystem.application
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_LibrarySystem\bin\Debug\CGI_LibrarySystem.exe
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_LibrarySystem\bin\Debug\CGI_LibrarySystem.pdb
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.csprojResolveAssemblyReference.cache
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.TrustInfo.xml
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.exe.manifest
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.application
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.exe
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\CGI_LibrarySystem\obj\Debug\CGI_LibrarySystem.pdb
