@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CGI_EducationSystem.exe" size="44528">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CGI_EducationSystem.exe" size="49136">
       <assemblyIdentity name="CGI_EducationSystem" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>A8Ea98/AD8O4RiY7sRdIAO5MJcs=</dsig:DigestValue>
+        <dsig:DigestValue>BK0gpuJbLNpn3FXUKR+pj2eYPyE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
