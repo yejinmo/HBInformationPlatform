@@ -1,0 +1,112 @@
+﻿<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="css/base.css" rel="stylesheet">
+		<link href="css/project.css" rel="stylesheet">
+		<title>教务信息系统</title>
+		<style>
+            body 
+            {
+                font-family: "Microsoft YaHei", "SimHei"
+            }    
+		</style>
+		<script>
+			function Login()
+			{
+				document.getElementById("btn_login").className="btn btn-block btn-brand waves-attach waves-light waves-effect disabled";
+			}
+		</script>
+	</head>
+	<body class="page-brand">
+		<div class="col-lg-4 col-lg-push-4 col-sm-6 col-sm-push-3">
+			<section class="content-inner">
+				<div class="card">
+					<div class="card-main">
+						<div class="card-header">
+							<div class="card-inner">
+								<h1 class="card-heading">登录到教务系统</h1>
+							</div>
+						</div>
+						<div class="card-inner">
+							<p class="text-center">
+								<span class="avatar avatar-inline avatar-lg">
+								<img alt="登录" src="img/avatar-001.jpg">
+								</span>
+							</p>
+							<form class="form" action="request.aspx" method="post">
+								<div class="form-group form-group-label form-group-brand">
+									<div class="row">
+										<div class="col-md-10 col-md-push-1">
+											<label class="floating-label" for="username">学号</label>
+											<input class="form-control" name="username" id="username" type="text">
+										</div>
+									</div>
+								</div>
+								<div class="form-group form-group-label form-group-brand">
+									<div class="row">
+										<div class="col-md-10 col-md-push-1">
+											<label class="floating-label" for="pwd">密码</label>
+											<input class="form-control" name="pwd" id="pwd" type="password">
+										</div>
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="row">
+										<div class="col-md-10 col-md-push-1">
+											<!--登录按钮><-->
+											<button class="btn btn-block btn-brand waves-attach waves-light waves-effect" onclick="Login()" id="btn_login">轻点一下即可登录</button>
+										</div>
+									</div>
+								</div>
+							</form>
+							<div class="form-group">
+								<div class="row">
+									<div class="col-md-10 col-md-push-1">
+										<div class="clearfix">
+											<center>
+												<a href="#" style="text-decoration:none">本服务正遭受恶意攻击 然而<br>运维出门</a><a href="#" style="text-decoration:line-through">泡妹子</a><a href="#" style="text-decoration:none">泡汉子去了  开发躺在床上不想起饿得要死<br>所以本服务可能随时都会中断 一定要谅解我们啊</a>
+											</center>
+											<p class="margin-no-top pull-right">
+												<a class="btn btn-flat waves-attach waves-effect btn-brand" data-backdrop="static" data-toggle="modal" href="#ui_dialog_alert"> 关于 </a>
+											</p>
+										</div>
+										<div aria-hidden="true" class="modal modal-va-middle fade" id="ui_dialog_alert" role="dialog" tabindex="-1" style="display: none;">
+											<div class="modal-dialog modal-xs">
+												<div class="modal-content">
+													<div class="modal-heading">
+														<p class="modal-title">关于本服务</p>
+													</div>
+													<div class="modal-inner">
+														<p class="h5 margin-top-sm text-black-hint">
+															本服务为方便广大海滨同学在校外查询考试成绩、当前课表及考试时间而设立<br>
+															仅供查询信息 无任何其他功能<br><br>
+															您的用户名及密码仅用于教务服务器验证身份<br>
+															传输过程中全程加密(<a href="http://baike.baidu.com/link?url=pu4NXJU2h_l-b2oZFQneO7sIavd54CGDrZyuQYgLA3ej5yeUgF6DYH4ZgdkgUUrvYAZdYHR-0WHihrRvE8HwK_" target="_blank">了解HTTPS</a>)<br>
+															自动进行验证码识别(<a href="https://github.com/yejinmo/HBInformationPlatform/tree/master/InformationEngine/CheckCodeEngine" target="_blank">了解X2验证码识别引擎</a>)<br>
+															您无需担忧您的账户安全<br><br>
+															
+															本服务由  北京交通大学 海滨学院 计算机协会  无偿提供
+															
+														</p>
+													</div>
+													<div class="modal-footer">
+														<p class="text-right"><a class="btn btn-flat waves-attach waves-effect btn-brand" data-dismiss="modal">知道了</a></p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+		<script src="js/jquery.min.js"></script>
+		<script src="js/base.min.js"></script>
+		<script src="js/project.min.js"></script>
+	</body>
+</html>
