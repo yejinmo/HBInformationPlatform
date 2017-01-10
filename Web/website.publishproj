@@ -43,11 +43,5 @@ website.publishproj
       <Value>$(AssemblyVersion)</Value>
     </AssemblyAttributes>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\InformationEngine\InformationEngine.csproj">
-      <Project>{39573934-33A4-4884-B367-14C2048A7B83}</Project>
-      <Name>InformationEngine</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(_WebPublishTargetsPath)\Web\Microsoft.WebSite.Publishing.targets" />
 </Project>

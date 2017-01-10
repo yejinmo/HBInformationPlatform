@@ -27,7 +27,7 @@ public partial class request : System.Web.UI.Page
                     if (De.Key.ToString() == "pwd")
                         password = De.Value.ToString();
                 }
-                Re = EducationSystem.GetEducationSystem(username, password);
+                Re = new EducationSystem().GetEducationSystem(username, password);
             }
             else
             {

@@ -2,9 +2,7 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Imaging;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Collections;
 using System.IO;
 
@@ -14,7 +12,7 @@ public class EducationSystemCheckCodeOCR
     Dictionary<Bitmap, string> TrainMap = null;
     bool IsLoadTrainMap = false;
 
-    string TrainPath = "TrainIamge\\";
+    string TrainPath = System.Web.HttpContext.Current.Request.PhysicalApplicationPath + "TrainIamge\\";
 
     bool IsBlue(Color color)
     {
@@ -112,9 +110,8 @@ public class EducationSystemCheckCodeOCR
 
             DirectoryInfo dir = new DirectoryInfo(TrainPath);
             FileInfo[] files = dir.GetFiles();
-
             foreach (FileInfo file in files)
-                TrainMap.Add(new Bitmap(Image.FromFile(file.FullName)), file.Name.ToArray()[0] + "");
+                TrainMap.Add(new Bitmap(Image.FromFile(file.FullName)), file.Name.ToCharArray()[0] + "");
             IsLoadTrainMap = true;
         }
     }
