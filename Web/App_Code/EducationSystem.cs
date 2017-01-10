@@ -24,11 +24,7 @@ public class EducationSystem
     {
         string res = string.Empty;
         res = Get(username, password);
-        return (
-@"HTTP/1.1 200 OK
-Content-type: text/html
-
-" + res);
+        return res;
     }
 
     private string Get(string USERNAME, string PASSWORD)
