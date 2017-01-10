@@ -11,25 +11,27 @@ public partial class request : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        string type = "";
         string Re = "";
-        Re += "数据传送方式：";
         if (Request.RequestType.ToUpper() == "POST")
         {
-            type = "POST";
-            Re += type + "<br/>参数分别是：<br/>";
+            string username = string.Empty;
+            string password = string.Empty;
             SortedList table = sParam();
             //Hashtable table = hParam();  
             if (table != null)
             {
                 foreach (DictionaryEntry De in table)
                 {
-                    Re += "参数名：" + De.Key + " 值：" + De.Value + "<br/>";
+                    if (De.Key.ToString() == "username")
+                        username = De.Value.ToString();
+                    if (De.Key.ToString() == "pwd")
+                        password = De.Value.ToString();
                 }
+                Re = EducationSystem.GetEducationSystem(username, password);
             }
             else
             {
-                Re = "你没有传递任何参数过来！";
+                Re = "Error";
             }
         }
         Response.Write(Re);

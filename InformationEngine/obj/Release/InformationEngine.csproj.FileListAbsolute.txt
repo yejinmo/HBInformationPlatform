@@ -1,0 +1,9 @@
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\InformationEngine\bin\Release\InformationEngine.dll
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\InformationEngine\bin\Release\InformationEngine.pdb
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\InformationEngine\bin\Release\System.Web.Http.dll
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\InformationEngine\bin\Release\System.Net.Http.Formatting.dll
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\InformationEngine\bin\Release\System.Web.Http.xml
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\InformationEngine\bin\Release\System.Net.Http.Formatting.xml
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\InformationEngine\obj\Release\InformationEngine.csprojResolveAssemblyReference.cache
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\InformationEngine\obj\Release\InformationEngine.dll
+E:\OneDrive\Project\VisualStudio\HBInformationPlatform\InformationEngine\obj\Release\InformationEngine.pdb
